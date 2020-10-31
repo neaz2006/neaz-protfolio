@@ -29,7 +29,7 @@ const Menu = () => {
                         <Link to="/Contact" className="menu">Contact</Link>
                     </Nav.Item>
                     <Nav.Item>
-                        <a href="https://drive.google.com/file/d/15Mx2VXtqjvXstlyO_0X7Je14qeCOaMYB/view" className="menu btn btn-secondary text-light" downloade><ImDownload2/> Resume</a>
+                        <a href="https://drive.google.com/file/d/15Mx2VXtqjvXstlyO_0X7Je14qeCOaMYB/view" className="menu btn btn-secondary text-light" download><ImDownload2/> Resume</a>
                     </Nav.Item>
                 </Navbar.Collapse>
             </Navbar>

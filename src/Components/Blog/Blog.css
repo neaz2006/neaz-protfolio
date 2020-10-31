@@ -1,7 +1,10 @@
 .icon__style{
+    height: 100px;
+    width: 100px;
     border: 1px solid white;
     border-radius: 50%;
     align-items: center;
-    padding: 5px;
+    padding: 7px;
+    color: #0f1f1f;
 
 }

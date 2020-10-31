@@ -1,0 +1,21 @@
+.icon__link{
+    height: 50px;
+  width: 50px;
+    border: 1px solid #fff ;
+    border-radius: 50%;
+    padding: 20px;
+    margin: 10px;
+    align-items: center;
+}
+.fb{
+    COLOR: #366ad3;
+}
+.lind{
+    COLOR: #07435f;
+}
+.git{
+    COLOR: #211F1F;
+}
+.md{
+    COLOR: #29232b;
+}

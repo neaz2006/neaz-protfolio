@@ -43,3 +43,12 @@
     transition: 0.2s;
     transform: transitionY(-1rem);
   }
+ .icon__style{
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+  border-radius: 50%;
+  align-items: center;
+  padding: 7px;
+  margin: 5px;
+ }

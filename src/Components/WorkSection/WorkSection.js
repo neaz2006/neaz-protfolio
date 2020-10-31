@@ -25,10 +25,11 @@ const WorkSection = () => {
                                 <h3 className="p-5">{work.name}</h3>
                                 <p>{work.title}</p>
                                 <div style={{ margin: "24px 0" }}>
-                                    <a href={work.gitlink} className="mr-3"><FaGithub /></a>                                    
-                                    <a href={work.linkedin} className="mr-3"><FaLinkedin /></a>
+                                    <a href={work.gitlink} className="mr-3"className="icon__style"><FaGithub /></a>                                    
+                                    <a href={work.linkedin} className="mr-3"className="icon__style"><FaLinkedin /></a>
                                     <a href={work.fb}><span className="icon__style"><FaFacebookF /></span></a>
                                 </div>
+                                <br/>
                                 <a href={work.livelink} className="btn btn-info btn__infocard"><RiLiveFill/> Vist Live site..</a>
                             </div>
                         )
